@@ -1,52 +1,48 @@
-🛡️ Cybersecurity Research & Arsenal
-A centralized knowledge base and repository for modern offensive security, digital forensics, and threat intelligence. This project serves as a "living document" of methodologies, toolsets, and research notes.
 
-📖 Project Documentation (The Wiki)
-For detailed guides and technical deep-dives, please visit the .
+> A curated repository of tools and resources for Dark Web investigations, Active Directory security, Red Teaming, Blue Team defense, and Mobile Forensics.
 
-🗺️ Quick Access
-– Advanced recon (Shodan, FOFA, Netlas, Web-Check).
+---
 
-– Physical and logical extraction workflows.
+## 🚀 
 
-– Detection engineering and Sentinel/KQL.
+| 🕶️ OSINT & Dark Web | 📱 Mobile Security | ⚔️ Offensive Ops | 🛡️ Defensive Ops |
+| :--- | :--- | :--- | :--- |
+| Onion Research | Decompilation | AD Exploitation | Threat Hunting |
+| Social Media Intel | Forensic Analysis | EDR Evasion | KQL / Sentinel |
+| Dark Web Monitoring | Static Data Flow | C2 Frameworks | Malware Analysis |
 
-– Active Directory exploitation and C2 frameworks.
+---
 
-– Locksmithing and automotive IMMO diagnostics.
+## 📖 Knowledge Base Navigation
 
-– Malware analysis and Threat Intelligence.
+I maintain a comprehensive wiki of tools and techniques. You can jump directly to specific domains below:
 
-– Expert-curated books and research blogs.
+* **[OSINT & Dark Web](LINK_TO_SECTION)**: Tools like TorBot and Webz.io for deep-web intelligence.
+* **[Mobile Forensics](LINK_TO_SECTION)**: Android RE tools (JADX, Apktool) and forensic collection (Andriller).
+* **[Offensive & Red Team](LINK_TO_SECTION)**: Certipy, Sliver C2 modifications, and Kerberos attacks.
+* **[Defensive & Blue Team](LINK_TO_SECTION)**: Microsoft Defender hunting queries and RDP cache analysis.
+* **[Physical Security](LINK_TO_SECTION)**: Automotive key programming and locksmithing hardware.
+* **[Malware Analysis](LINK_TO_SECTION)**: CTI and behavioral analysis using API Monitor and Koodous.
 
-🚀 Key Features & Toolsets
-Automated Recon: High-speed infrastructure analysis via Web-Check.xyz and subdomainfinder.
+---
 
-C2 Operations: Bypassing modern EDR using customized Sliver and Cobalt Strike profiles.
+## 🛠️ Tooling & Tech Stack
 
-AD CS Exploitation: Comprehensive workflows for abusing Certipy and Certificate Services.
+![OSINT](https://img.shields.io/badge/Focus-OSINT-informational?style=flat-square&logo=linux&logoColor=white)
+![RedTeam](https://img.shields.io/badge/Focus-Red_Team-red?style=flat-square&logo=kali-linux&logoColor=white)
+![BlueTeam](https://img.shields.io/badge/Focus-Blue_Team-blue?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Mobile](https://img.shields.io/badge/Focus-Mobile_Forensics-green?style=flat-square&logo=android&logoColor=white)
 
-Forensic Reconstruction: Timeline analysis using The Art of Memory Forensics methodology.
+---
 
-🛠️ Usage & Setup
-This repository is primarily for documentation. However, if you are looking for specific scripts or automation:
+## ⚖️ Legal & Security
+* **Security Policy:** Find my [Responsible Disclosure policy here](LINK_TO_POLICY).
+* **Disclaimer:** All information shared is for **educational and ethical security testing purposes only**. Explicit permission is required for any testing.
+* **License:** Distributed under the [CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/) license.
 
-Clone the Repo:
+---
 
-Explore the Wiki: The Wiki contains the "How-To" for every tool mentioned in the README.
+## 🤝 Connect with Me
+[GitHub Link] | [LinkedIn Link] | [Twitter/X Link] | [Personal Blog/Portfolio]
 
-⚖️ Legal Disclaimer
-For educational and ethical security testing purposes only. The information and tools in this repository are intended for security professionals to use in authorized environments. Unauthorized access to systems is illegal. See for our full disclosure policy and legal terms.
-
-🤝 Contributing
-Contributions are welcome! If you have a new tool, a research blog, or a methodology update:
-
-Fork the repo.
-
-Create your feature branch.
-
-Submit a Pull Request.
-
-Maintainer: [Your Name/Handle]
-
-Contact: [Your Email/Twitter/LinkedIn]
+*"Knowledge is the only asset that grows when shared."*
