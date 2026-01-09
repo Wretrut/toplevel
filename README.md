@@ -1,39 +1,52 @@
-# 🛡️ Cybersecurity Research & Arsenal
-
-[![Wiki](https://img.shields.io/badge/Documentation-Wiki-blue?style=for-the-badge&logo=wikipedia)](https://github.com/YOUR_USERNAME/YOUR_REPO/wiki)
-[![Security Policy](https://img.shields.io/badge/Security-Policy-red?style=for-the-badge&logo=github-security)](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/SECURITY.md)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
+🛡️ Cybersecurity Research & Arsenal
 A centralized knowledge base and repository for modern offensive security, digital forensics, and threat intelligence. This project serves as a "living document" of methodologies, toolsets, and research notes.
 
----
+📖 Project Documentation (The Wiki)
+For detailed guides and technical deep-dives, please visit the .
 
-## 📖 Project Documentation (The Wiki)
-For detailed guides and technical deep-dives, please visit the **[Project Wiki](https://github.com/YOUR_USERNAME/YOUR_REPO/wiki)**. 
+🗺️ Quick Access
+– Advanced recon (Shodan, FOFA, Netlas, Web-Check).
 
-### 🗺️ Quick Access
-* **[🕶️ OSINT & Dark Web](https://github.com/YOUR_USERNAME/YOUR_REPO/wiki/OSINT-and-Dark-Web)** – Advanced recon (Shodan, FOFA, Netlas).
-* **[📱 Mobile Forensics](https://github.com/YOUR_USERNAME/YOUR_REPO/wiki/Mobile-Forensics)** – Physical and logical extraction workflows.
-* **[🛡️ Blue Team Operations](https://github.com/YOUR_USERNAME/YOUR_REPO/wiki/Defensive-Security)** – Detection engineering and Sentinel/KQL.
-* **[⚔️ Red Team Playbook](https://github.com/YOUR_USERNAME/YOUR_REPO/wiki/Offensive-Security)** – Active Directory exploitation and C2 frameworks.
-* **[🔐 Physical Security](https://github.com/YOUR_USERNAME/YOUR_REPO/wiki/Physical-Security)** – Locksmithing and automotive IMMO diagnostics.
-* **[📚 Technical Reading List](https://github.com/YOUR_USERNAME/YOUR_REPO/wiki/Reading-List)** – Expert-curated books and research blogs.
+– Physical and logical extraction workflows.
 
----
+– Detection engineering and Sentinel/KQL.
 
-## 🚀 Key Features & Toolsets
-* **Automated Recon:** High-speed infrastructure analysis via `Web-Check` and `subdomainfinder`.
-* **C2 Operations:** Bypassing modern EDR using customized `Sliver` and `Cobalt Strike` profiles.
-* **AD CS Exploitation:** Comprehensive workflows for abusing `Certipy` and Certificate Services.
-* **Forensic Reconstruction:** Timeline analysis using `The Art of Memory Forensics` methodology.
+– Active Directory exploitation and C2 frameworks.
 
+– Locksmithing and automotive IMMO diagnostics.
 
+– Malware analysis and Threat Intelligence.
 
----
+– Expert-curated books and research blogs.
 
-## 🛠️ Usage & Setup
+🚀 Key Features & Toolsets
+Automated Recon: High-speed infrastructure analysis via Web-Check.xyz and subdomainfinder.
+
+C2 Operations: Bypassing modern EDR using customized Sliver and Cobalt Strike profiles.
+
+AD CS Exploitation: Comprehensive workflows for abusing Certipy and Certificate Services.
+
+Forensic Reconstruction: Timeline analysis using The Art of Memory Forensics methodology.
+
+🛠️ Usage & Setup
 This repository is primarily for documentation. However, if you are looking for specific scripts or automation:
 
-1. **Clone the Repo:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO.git](https://github.com/YOUR_USERNAME/YOUR_REPO.git)
+Clone the Repo:
+
+Explore the Wiki: The Wiki contains the "How-To" for every tool mentioned in the README.
+
+⚖️ Legal Disclaimer
+For educational and ethical security testing purposes only. The information and tools in this repository are intended for security professionals to use in authorized environments. Unauthorized access to systems is illegal. See for our full disclosure policy and legal terms.
+
+🤝 Contributing
+Contributions are welcome! If you have a new tool, a research blog, or a methodology update:
+
+Fork the repo.
+
+Create your feature branch.
+
+Submit a Pull Request.
+
+Maintainer: [Your Name/Handle]
+
+Contact: [Your Email/Twitter/LinkedIn]
